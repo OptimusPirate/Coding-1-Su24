@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/E3/YU27JVKE4EEIIGXVJQBF3G.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/4T/D3GMCX4IFQEJNI49XF8AVZ.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1Y/56RQPTXD23ZJQEBE5GAMR1.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/9K/UTM7VGSYIGTA2V8I2QMQJ1.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FA/YWVFZU96XRL4SMB1FOO3YE.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PX/FSHFAA81RFBQHK2A5S0SXZ.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EA/JP1NSLTTH1J9PWW8W2MAH2.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/35/Q99YIIVTP6SMLN8TB3QFOW.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CG/NZPXBK01OLL3S4DPP9QBBT.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/R7/HTFQCE5T8KOW0WK6MMGSJ5.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PZ/QH6RWYZBE0Q481N32FLTA0.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9C/PYG5HZBNKSP9LZRRN2CJRX.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G3/G6OQOW9PVG4Q6G9J0673Y5.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FR/Z7Q81RULMBQIZV5PY5Z8PT.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4O/RMLPYQHOLW2SXVTD36EG71.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/PV/U9PX8D0G2FS9V6IXMRI1V7.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/69/ID7IDJQ147WBKITR58PBO0.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/SS/KCGIKQND2O34YXIVDOVK6F.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/61/7BLENASNUN5B33SO1U6A0Q.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZD/GFQ11WKD1POJ4PIQDMRSBI.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Q5/1JG5LZXTNI1HIEE8REDGWV.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DJ/0JCM1K69345E0RJ32K6ZX1.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/5I/5WTXQFT4S6HGPR9XKVXZXD.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UH/PC9NGUW415E8YRS6Z9T3X5.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/N6/F3QN40VU1WXSMEPQZQ2TYX.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1M/VFUPRFNT8Q8O96MIGVETOE.uasset",
+				"C:/Users/Optimus PC/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OY/4INC3KP3Z0RKFBI9N5KS1T.uasset"
+			]
+		}
+	]
+}
